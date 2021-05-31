@@ -1,4 +1,4 @@
-package Version_1;
+package version_1;
 
 public class Git_Ver_01 {
 
