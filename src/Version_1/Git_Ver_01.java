@@ -12,5 +12,19 @@ public class Git_Ver_01 {
 		System.out.println("Private method");
 
 	}
+	private void add() {
+		System.out.println("add method");
 
+	}
+
+	private void sub() {
+		System.out.println("sub method");
+
+
+	}
+	private void mul() {
+		System.out.println("Multiply method");
+
+
+	}
 }
